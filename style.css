@@ -1,0 +1,35 @@
+  body{
+            background-color: hsl(212, 45%, 89%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        div{
+            background-color: hsl(0, 0%, 100%);
+            height: fit-content;
+              display: flex;
+              flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 22.5vw;
+            border-radius: 10px;
+        }
+        img{
+            margin-left: 1.4vw;
+            width: 20vw;
+              display: flex;
+              margin-left: -0.1vw;
+        }
+        h1{
+            font-family: outfit;
+             display: flex;
+            justify-content: center;
+        }
+        p{
+            font-family: outfit;
+            width: 20vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2vw;
+        }
